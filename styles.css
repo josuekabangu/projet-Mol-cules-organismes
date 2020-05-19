@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+
+.bs-component{
+    background-color: brown;
+	position:absolute;
+	right:0;
+	top:0;
+}
